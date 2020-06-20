@@ -1,6 +1,6 @@
 
 
-def countdown ("Integer")
+def countdown (x)
  while
   
  
